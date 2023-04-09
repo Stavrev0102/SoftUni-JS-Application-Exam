@@ -1,6 +1,6 @@
 # SoftUni-JS-Application-Exam
 
-This is SPA with page,lit-html.
+This is SPA with page and lit-html.
 
 Application Requirements
 Navigation Bar (5 pts)
